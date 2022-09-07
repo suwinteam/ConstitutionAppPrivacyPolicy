@@ -11,4 +11,6 @@ We have not programmed this app to collect any personally identifiable informati
 
 If you find any security vulnerability that has been inadvertently caused by us, or have any question regarding how the app protects your privacy, please send us an email and we will surely try to fix it/help you.
 
-Yours sincerely, L.B. DONTUBOYINA lbdontuboyina@gmail.com
+Yours sincerely, 
+L.B. DONTUBOYINA 
+lbdontuboyina@gmail.com
